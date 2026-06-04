@@ -82,3 +82,8 @@ Stop and report to the main integrator when:
 - `release/evidence/conformance/conformance-matrix.json`
 - `release/evidence/tests/test-matrix.json`
 - `release/evidence/final/completion-audit.json`
+
+GPU optimization evidence is part of this contract: CUDA and WGPU benchmark
+artifacts must show the optimized path's measured behavior, and any GPU claim
+must cite the relevant backend, benchmark, conformance, or release evidence
+anchor above.
